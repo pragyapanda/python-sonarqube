@@ -5,7 +5,7 @@ PythonAppWithSonarQube is a sample Python application that demonstrates how to i
 ## Project Structure
 
 ```
-PythonAppWithSonarQube/
+python-sonarqube/
 ├── app/
 │   ├── __init__.py
 │   ├── main.py
@@ -32,8 +32,8 @@ PythonAppWithSonarQube/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/PythonAppWithSonarQube.git
-   cd PythonAppWithSonarQube
+   git clone https://github.com/yourusername/python-sonarqube.git
+   cd python-sonarqube
    ```
 
 2. **Set up the Docker container:**
